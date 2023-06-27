@@ -1,0 +1,460 @@
+{"claim": "NNP VBZ VBN IN DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP IN NNP VBD RP IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ VBN IN DT NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD VBN IN CD NNP .", "label": "REFUTES"}
+{"claim": "DT JJ NN VBZ VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ DT NN IN CD CD .", "label": "REFUTES"}
+{"claim": "JJ NN HYPH NN VBZ VBG .", "label": "SUPPORTS"}
+{"claim": "NNPS VBD IN DT JJ JJ NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "VB PRP$ NN VBZ DT NN .", "label": "REFUTES"}
+{"claim": "NNP VBD DT JJ NN IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBD VBN IN JJ NNS .", "label": "REFUTES"}
+{"claim": "IN CD , NNP NNP VBD VBN .", "label": "SUPPORTS"}
+{"claim": "NNP CC DT NNPS VBZ RB JJ .", "label": "REFUTES"}
+{"claim": "NN VBZ VBN IN DT NN .", "label": "SUPPORTS"}
+{"claim": "DT NN VBZ DT CD NN .", "label": "SUPPORTS"}
+{"claim": "NN VBZ JJ IN DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP VBZ DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ RB TO VB VBN .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBN IN JJ NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "EX VBD DT NN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP VBD IN DT NN . .", "label": "SUPPORTS"}
+{"claim": "NNP DT NNP VBD RP IN CD .", "label": "SUPPORTS"}
+{"claim": "JJ JJ NNS VBP VBN NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ VBN CC VBN NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "EX VBD DT NN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NN VBD VBN IN DT NN .", "label": "SUPPORTS"}
+{"claim": "NN VBZ DT RB HYPH JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD IN NNP CD , CD .", "label": "REFUTES"}
+{"claim": "DT NNP NNP VBZ RB VBN VBN .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "JJ NN RB VBZ IN JJ NN .", "label": "REFUTES"}
+{"claim": "VB RP VBZ DT NN IN NNP .", "label": "SUPPORTS"}
+{"claim": "JJ NN VBZ JJ IN JJ NN .", "label": "REFUTES"}
+{"claim": "DT JJ NN VBZ VBN IN NNP .", "label": "SUPPORTS"}
+{"claim": "DT NNS VBP IN DT NN .", "label": "SUPPORTS"}
+{"claim": "NNP CD VBZ DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD RP IN NN IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP NNP VBZ RB VBN VBN .", "label": "SUPPORTS"}
+{"claim": "EX VBD CD NNP NNS IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP RB VBZ JJ JJ NNS .", "label": "REFUTES"}
+{"claim": "IN CD NNP , NNP VBD VBN .", "label": "SUPPORTS"}
+{"claim": "DT NN VBZ DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "VB PRP$ NN VBZ DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "NN VBZ DT CD JJ NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ JJ CC JJ .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP VBZ RB DT NN .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBN IN JJ JJ NNS .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBN IN DT NNS .", "label": "SUPPORTS"}
+{"claim": "NN VBZ DT CD JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP MD RB VB JJ NN .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBN CC VBN NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "CD NNS VBD VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD JJR IN CD NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ IN DT JJ NN .", "label": "REFUTES"}
+{"claim": "JJ NN VBD VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NN VBZ VBN IN DT NNS .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ RB DT JJ .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ JJ IN VBG .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ RB TO VB .", "label": "REFUTES"}
+{"claim": "NNP VBD TO VB DT NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ RB TO VB .", "label": "REFUTES"}
+{"claim": "NNP CD NNP VBD VBN IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP CD VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNPS VBD IN DT JJ JJ NNS .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBG IN RB CD NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NN CD VBZ RB DT NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NN VBD RB VB DT NN .", "label": "REFUTES"}
+{"claim": "JJ JJ NNS VBP RB VBN NNS .", "label": "SUPPORTS"}
+{"claim": "NN HYPH NN VBZ DT JJ .", "label": "NOT ENOUGH INFO"}
+{"claim": "NN IN DT NNP VBD IN CD .", "label": "SUPPORTS"}
+{"claim": "DT NNP VBZ VBN VBN IN NNS .", "label": "SUPPORTS"}
+{"claim": "DT JJ VBD VBN IN NNP NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ IN `` JJ NN '' .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ IN DT VBN JJ NN .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD VBN IN RB JJ NNS .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBN TO VB NNS JJ .", "label": "NOT ENOUGH INFO"}
+{"claim": "JJ NNP VBD IN JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP DT NNP VBD IN CD .", "label": "REFUTES"}
+{"claim": "DT JJ NN VBZ VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ IN DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "JJ NN HYPH NN VBZ VBG .", "label": "SUPPORTS"}
+{"claim": "DT JJ NN VBZ DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ DT JJ JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBZ RB TO VB .", "label": "REFUTES"}
+{"claim": "DT JJ NNS VBD DT NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ JJ JJ JJ NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "UH NNP VBN VBD VBN IN NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNPS CD VBZ DT NN .", "label": "REFUTES"}
+{"claim": "NNP VBZ RB DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBG IN CD .", "label": "REFUTES"}
+{"claim": "DT JJ NN VBZ VBN IN NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ VBN IN DT NNP .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBN IN JJ NNS .", "label": "REFUTES"}
+{"claim": "IN CD , NNP NNP VBD .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBZ RB VBN JJ .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "DT NN CD VBD VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP IN NNP VBD RB VBN .", "label": "REFUTES"}
+{"claim": "DT NN VBZ VBN IN NN .", "label": "REFUTES"}
+{"claim": "DT NN IN NNP PRP VBD VBN .", "label": "SUPPORTS"}
+{"claim": "NNP VBD DT JJ JJ NN .", "label": "REFUTES"}
+{"claim": "NN VBD JJ VBN NN IN CD .", "label": "REFUTES"}
+{"claim": "NNP MD VB VBZ DT JJ NN .", "label": "REFUTES"}
+{"claim": "JJ NNP VBD DT JJ NN .", "label": "REFUTES"}
+{"claim": "DT NNP IN CD VBZ NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNS VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "JJ JJ NNS VBP VBN NNS .", "label": "SUPPORTS"}
+{"claim": "NN VBZ VBN VBN IN JJ NNS .", "label": "SUPPORTS"}
+{"claim": "NNP VBD VBN IN DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ VBN CC VBN NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNS VBP RB IN DT NN .", "label": "REFUTES"}
+{"claim": "DT NNP VBD DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "NN IN DT NNP VBZ JJ .", "label": "REFUTES"}
+{"claim": "DT NNP VBD VBN IN NNP .", "label": "REFUTES"}
+{"claim": "NNP POS VBZ VBP DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBD VBN IN DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP NNPS VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "DT NNPS VBD IN NNP RB .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBN IN DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "JJ NN VBZ JJ IN NNS .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBN IN JJ NNS .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ IN DT VBN NN .", "label": "SUPPORTS"}
+{"claim": "DT NN VBD VBN IN NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT JJ NN VBZ VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ VBN IN CD JJ NNS .", "label": "REFUTES"}
+{"claim": "EX VBZ NN NN VBN JJR .", "label": "SUPPORTS"}
+{"claim": "NNP VBD DT NN IN PRP .", "label": "SUPPORTS"}
+{"claim": "NNP VBD RP IN NNP IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBN CC VBN NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "NN VBZ DT JJ NN IN CD .", "label": "SUPPORTS"}
+{"claim": "JJ NN HYPH NN VBZ VBG .", "label": "REFUTES"}
+{"claim": "JJ NN VBZ JJ IN DT NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP IN DT NNP RB VBD .", "label": "REFUTES"}
+{"claim": "NNP VBD VBN IN NNP IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "CD NN VBD IN DT NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD TO VB DT NN .", "label": "REFUTES"}
+{"claim": "NNP VBZ RB VBN IN NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP CD VBZ JJ IN PRP$ NNS .", "label": "SUPPORTS"}
+{"claim": "NNS VBP DT NN IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NN VBZ RB DT NN .", "label": "REFUTES"}
+{"claim": "JJ NN VBZ JJ IN JJ NN .", "label": "SUPPORTS"}
+{"claim": "JJ NN POS NN VBD IN CD .", "label": "SUPPORTS"}
+{"claim": "NN VBZ RB VB DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP VBD VBN IN DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "DT JJ JJ JJ NNP NNP .", "label": "SUPPORTS"}
+{"claim": "DT NN VBD VBN IN DT NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP NNP VBD VBN RB RB .", "label": "REFUTES"}
+{"claim": "DT NN VBZ IN RB NNS .", "label": "REFUTES"}
+{"claim": "DT NNP VBZ DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP IN NNP VBD RP IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBD DT JJ JJ NN .", "label": "REFUTES"}
+{"claim": "NN NNS MD RB RB VB .", "label": "REFUTES"}
+{"claim": "NNP IN DT NN VBD IN CD .", "label": "REFUTES"}
+{"claim": "NN VBZ VBN IN DT NN .", "label": "REFUTES"}
+{"claim": "EX VBZ DT NN VBN NNP .", "label": "SUPPORTS"}
+{"claim": "NN DT NNP VBD IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP VBD DT JJ JJ NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ RB TO VB .", "label": "REFUTES"}
+{"claim": "DT JJ NN VBZ DT NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBZ RB CD IN CD NNS .", "label": "REFUTES"}
+{"claim": "DT JJ VBD VBN IN NNP NNP .", "label": "REFUTES"}
+{"claim": "JJ NNS VBN RB JJ NN .", "label": "REFUTES"}
+{"claim": "NNP CC NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBD VBN IN DT NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "JJ NNP VBD DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "EX VBZ DT NN VBN NNP .", "label": "SUPPORTS"}
+{"claim": "NNP VBD VBN IN NNP IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBD JJ IN DT NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP CC NNP VBD IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ WRB TO VB .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP , NNP VBZ DT VB .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD IN DT JJ CD .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ VBN IN DT NNP .", "label": "REFUTES"}
+{"claim": "NNP CD VBD VBN IN DT NN .", "label": "SUPPORTS"}
+{"claim": "NN MD VB JJ TO VB NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ DT JJ JJ NN .", "label": "REFUTES"}
+{"claim": "NN VBD JJ VBN NN IN CD .", "label": "SUPPORTS"}
+{"claim": "CD JJ NN VBZ DT NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP POS JJS NN VBD VBN JJ .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NN CD VBD VBN IN NNS .", "label": "REFUTES"}
+{"claim": "NNP VBD JJ PRP$ JJ NN .", "label": "REFUTES"}
+{"claim": "NNP VBD IN NNP CD , CD .", "label": "SUPPORTS"}
+{"claim": "NN IN DT NNPS VBD IN CD .", "label": "SUPPORTS"}
+{"claim": "JJ NN VBZ DT JJ IN NNS .", "label": "REFUTES"}
+{"claim": "NNP VBZ DT NN IN CD CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "JJ NN VBZ JJ IN JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ VBN RB IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NN VBZ DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ IN DT NNP IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD RB RB DT NN .", "label": "REFUTES"}
+{"claim": "NN VBZ RB NN HYPH VBN .", "label": "SUPPORTS"}
+{"claim": "NNP CD VBD VBN NNP CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP IN CD VBZ NNP .", "label": "SUPPORTS"}
+{"claim": "NN DT NNP VBD IN CD .", "label": "REFUTES"}
+{"claim": "NNS VBD VBG IN JJ NN .", "label": "REFUTES"}
+{"claim": "NNP VBD IN NNP IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP POS VBN NN VBD JJ .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD VBN CC JJ NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP VBZ VBN CD NNS .", "label": "REFUTES"}
+{"claim": "JJ NNS VBD IN DT NN .", "label": "SUPPORTS"}
+{"claim": "EX VBD DT NN TO VB NNP .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBZ RB VBN JJ .", "label": "REFUTES"}
+{"claim": "NNS VBP RB IN DT NN .", "label": "SUPPORTS"}
+{"claim": "NN VBZ RB VBN IN DT NN .", "label": "REFUTES"}
+{"claim": "DT JJ NN VBZ VBN IN NNP .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ DT JJS JJ NN .", "label": "REFUTES"}
+{"claim": "DT NN VBZ DT NN JJ .", "label": "REFUTES"}
+{"claim": "DT NNP VBZ RB DT NN .", "label": "REFUTES"}
+{"claim": "DT NNPS CD VBZ RB DT NN .", "label": "REFUTES"}
+{"claim": "JJ NN VBZ DT CD NN .", "label": "REFUTES"}
+{"claim": "CD JJ NN VBZ DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "DT JJ NN VBZ VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT JJ NNS VBZ DT JJ NN .", "label": "REFUTES"}
+{"claim": "NN -LRB- NN -RRB- VBZ DT JJ .", "label": "SUPPORTS"}
+{"claim": "CD NN VBD NN CD IN CD .", "label": "REFUTES"}
+{"claim": "NN VBD JJ VBN NN IN CD .", "label": "REFUTES"}
+{"claim": "DT NN CD VBD VBN IN NNP .", "label": "REFUTES"}
+{"claim": "NN VBD VBN IN NNP IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNS VBD DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP VBZ VBN RB JJ NNS .", "label": "SUPPORTS"}
+{"claim": "DT NNP IN CD VBZ NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP PRP POS NN VBD VBN .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP POS NN VBZ RB VBN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ WRB TO VB .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NN VBZ VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NN VBZ DT JJ NN IN CD .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "JJ NNS VBP DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ IN DT VBN NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD VBN IN NNP IN CD .", "label": "REFUTES"}
+{"claim": "DT NN IN NNP VBZ CD CD .", "label": "SUPPORTS"}
+{"claim": "DT JJ VBN JJ NN IN NNP .", "label": "SUPPORTS"}
+{"claim": "NNP VBD DT NN IN CD .", "label": "SUPPORTS"}
+{"claim": "DT JJ NN VBD DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "NNP CC NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "DT NNS VBD RB CD NNS .", "label": "REFUTES"}
+{"claim": "NNP CD VBZ DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "DT JJ NN VBD IN JJ NNS .", "label": "REFUTES"}
+{"claim": "NNP VBD VBN IN DT VBG NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP CD VBZ RB DT NN .", "label": "REFUTES"}
+{"claim": "NNP VBD VBN CC VBN IN NN .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ JJ CC JJ .", "label": "REFUTES"}
+{"claim": "EX VBD CD NNP NNS IN CD .", "label": "SUPPORTS"}
+{"claim": "DT NN VBD VBN IN DT NNS .", "label": "SUPPORTS"}
+{"claim": "JJ NN VBZ DT CD NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ DT JJ RB .", "label": "REFUTES"}
+{"claim": "CD NNS VBD RP IN NNP CD .", "label": "SUPPORTS"}
+{"claim": "DT JJ JJ JJ NNP NNP .", "label": "SUPPORTS"}
+{"claim": "NNP DT NNP VBD IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBD DT JJ JJS JJ NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBD DT NN IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "EX VBD CD NNP NNS IN CD .", "label": "SUPPORTS"}
+{"claim": "DT NN VBZ DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP VBD VBN IN DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ VBN CC VBN NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBZ JJ NNS WDT VBP JJ .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "JJ NNS VBP IN DT NN .", "label": "SUPPORTS"}
+{"claim": "DT NN VBZ IN JJ NNS .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "DT JJ NN VBZ VBN IN NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP VBD IN NNP CD , CD .", "label": "REFUTES"}
+{"claim": "NNP IN DT NN VBD IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "NN VBZ DT NN IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBZ DT JJ JJS JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "EX VBP DT JJ NNS IN NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "JJ NN VBZ JJ IN JJ NN .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD RB VBN IN CD .", "label": "REFUTES"}
+{"claim": "JJ NNP VBD RB VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ JJ IN VBG DT NN .", "label": "REFUTES"}
+{"claim": "VB DT NNP VBZ DT NN .", "label": "SUPPORTS"}
+{"claim": "IN CD , NNP NNP VBD VBN .", "label": "SUPPORTS"}
+{"claim": "NN VBZ VBN IN DT NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ VBN IN DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NN NN VBD VBN IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP MD VB JJ NN .", "label": "SUPPORTS"}
+{"claim": "CD NNS VBD VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "IN CD , NNP NNS VBD VBN .", "label": "SUPPORTS"}
+{"claim": "NNP VBD VBN IN CD NNS .", "label": "REFUTES"}
+{"claim": "NNP VBZ IN IN DT NNP .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ TO VB VBG .", "label": "REFUTES"}
+{"claim": "DT JJ NN VBZ DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "JJ NN VBZ JJ IN JJ NN .", "label": "SUPPORTS"}
+{"claim": "DT JJ NNS VBZ DT CD NN .", "label": "REFUTES"}
+{"claim": "NNP VBZ DT NN IN CD CD .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD RB VBN IN CD .", "label": "REFUTES"}
+{"claim": "JJ NNS VBP RB VBN DT NNP .", "label": "REFUTES"}
+{"claim": "NN VBD JJ VBN NN IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBD IN DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ VBN CC VBN NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD RB VBN IN NNP .", "label": "REFUTES"}
+{"claim": "NNP VBD PRP$ JJ NN IN CD .", "label": "REFUTES"}
+{"claim": "JJ NN VBZ IN JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "JJ NN VBZ DT JJ NN .", "label": "REFUTES"}
+{"claim": "DT NNP VBZ RB DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNPS VBD IN DT JJ JJ NNS .", "label": "SUPPORTS"}
+{"claim": "DT NNP VBZ VBN JJ IN NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBN CC VBN NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "CD JJ NN VBZ DT JJ NN .", "label": "REFUTES"}
+{"claim": "DT JJ NN VBD DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP VBD DT JJ JJ JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "EX VBP RB CD NNP NNS .", "label": "SUPPORTS"}
+{"claim": "CD NNS VBD VBN IN NNP .", "label": "SUPPORTS"}
+{"claim": "NNP IN NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "JJR VBZ RB DT NN NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ RB DT JJ .", "label": "REFUTES"}
+{"claim": "NNP NNS VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ RB VBN IN NNP .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBN IN DT NN .", "label": "SUPPORTS"}
+{"claim": "CD NNS VBD RP IN NNP CD .", "label": "SUPPORTS"}
+{"claim": "NNP NNS VBD RB VBN IN CD .", "label": "REFUTES"}
+{"claim": "NN VBZ VBN VBN IN JJ NNS .", "label": "SUPPORTS"}
+{"claim": "CD JJ NN VBZ DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "EX VBD CD NNP NNS IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ DT JJ JJ NN .", "label": "SUPPORTS"}
+{"claim": "DT JJ VBN JJ NN IN NNP .", "label": "REFUTES"}
+{"claim": "DT JJ NN VBZ DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ VBN IN DT NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT JJ RB VBZ IN NN NNS .", "label": "REFUTES"}
+{"claim": "DT NNPS CD VBZ DT NN .", "label": "SUPPORTS"}
+{"claim": "JJ NN VBZ JJ IN NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "CD JJ NN VBD VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NN NNS MD RB RB VB .", "label": "REFUTES"}
+{"claim": "DT NN VBZ RB DT NN .", "label": "REFUTES"}
+{"claim": "NNP VBZ JJ IN DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "NNP CD VBD VBN IN DT NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP VBD VBN IN NNP CD .", "label": "REFUTES"}
+{"claim": "IN NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBD JJR IN CD NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT JJ VBZ DT NN NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NN IN DT NNP VBZ VBN RB .", "label": "REFUTES"}
+{"claim": "DT NN VBD VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ RB DT JJ JJ NN .", "label": "REFUTES"}
+{"claim": "EX VBZ DT NN VBN NNP .", "label": "SUPPORTS"}
+{"claim": "IN JJ NNS , NNP VBZ VBN .", "label": "SUPPORTS"}
+{"claim": "NN CD NN VBZ VBN IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ RB VBN IN NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD $ CD CD RB .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD RB VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP NNP RB VBD IN JJ .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD JJ IN JJ NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD IN DT JJ JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "JJ NN RB VBZ IN NN .", "label": "REFUTES"}
+{"claim": "NNP VBZ DT JJ JJ NN .", "label": "REFUTES"}
+{"claim": "DT JJ NN VBZ VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBD IN DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ DT RB DT NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD $ CD CD RB .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNS IN NNP VBZ IN JJ .", "label": "REFUTES"}
+{"claim": "CD JJ NN VBZ DT NN .", "label": "REFUTES"}
+{"claim": "DT NN NN VBZ DT JJ .", "label": "REFUTES"}
+{"claim": "NNP IN NNP VBN IN CD .", "label": "REFUTES"}
+{"claim": "JJ NNS VBD PRP$ JJ NN VBN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ DT JJ NN RB .", "label": "REFUTES"}
+{"claim": "NNP VBZ IN IN DT JJ NNS .", "label": "REFUTES"}
+{"claim": "NNP MD VB VBN IN NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ DT JJ JJ NN .", "label": "REFUTES"}
+{"claim": "NNP CD VBZ RB DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNS VBD VBN IN CD NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT JJ NN VBZ VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ VBN IN DT NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD RB VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP NNP VBZ RB DT JJ .", "label": "REFUTES"}
+{"claim": "NNP VBD RB VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP VBZ VBN VBN IN NN .", "label": "SUPPORTS"}
+{"claim": "EX VBP JJ NNS IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP VBZ DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP RB VBZ PRP IN NNS .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP VBD IN RB RBS CD NN .", "label": "SUPPORTS"}
+{"claim": "NN HYPH NN VBZ DT JJ .", "label": "REFUTES"}
+{"claim": "NNP VBD VBN IN DT NN .", "label": "SUPPORTS"}
+{"claim": "DT JJ NN VBZ VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "JJ NN VBZ JJ IN JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ CD IN CD NNS .", "label": "REFUTES"}
+{"claim": "VBN VBZ DT JJ NN NN .", "label": "REFUTES"}
+{"claim": "NNP VBZ DT NN IN DT JJ .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP PRP POS NN VBZ RB JJ .", "label": "REFUTES"}
+{"claim": "NNP VBZ IN `` JJ NN '' .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBZ VBN VBG RB .", "label": "REFUTES"}
+{"claim": "NNP VBZ DT CD NN RB .", "label": "REFUTES"}
+{"claim": "EX VBD DT JJ NN IN NNP .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ DT JJ JJ NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBD VBN IN DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNS VBZ VBN RB RBS CD NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ VBN IN JJ NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ VBN IN DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NN VBZ DT CD JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ TO VB DT NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNPS CD VBZ DT NN .", "label": "REFUTES"}
+{"claim": "NNP VBZ RB VBN IN NNP .", "label": "REFUTES"}
+{"claim": "NN RB VBD IN DT NNP .", "label": "REFUTES"}
+{"claim": "DT NN VBZ RB DT NN .", "label": "REFUTES"}
+{"claim": "EX VBZ DT NN VBN NNP .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBZ DT JJ JJ .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "DT NNPS CD VBZ DT NN .", "label": "SUPPORTS"}
+{"claim": "NNP CD VBZ DT JJ NN .", "label": "REFUTES"}
+{"claim": "DT NN CD VBZ DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP MD VB VBN IN JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT NNP IN CD VBD NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNS MD VB VBN IN NNS .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ CD IN DT JJS NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ DT NN IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP VBD VBN IN CD NNP .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ RB IN JJ NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ JJ IN JJ NNS .", "label": "SUPPORTS"}
+{"claim": "CD JJ NN VBZ DT NN .", "label": "REFUTES"}
+{"claim": "DT JJ NNS VBZ DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP VBZ VBN RB IN NNP .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBZ RB TO VB VBG .", "label": "REFUTES"}
+{"claim": "DT NNP VBD RB DT JJ NN .", "label": "SUPPORTS"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "REFUTES"}
+{"claim": "NNP NNP MD VB VBN IN VBG .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD IN DT CD POS .", "label": "SUPPORTS"}
+{"claim": "NN VBZ JJ IN DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP VBZ NNS WDT PRP MD VB .", "label": "SUPPORTS"}
+{"claim": "VB DT NNP VBZ DT NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ RB VB DT JJ NN .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "JJ NNP VBD VBN IN NNP .", "label": "NOT ENOUGH INFO"}
+{"claim": "NNP VBZ RB VBN IN NNP .", "label": "REFUTES"}
+{"claim": "JJ NNP VBZ DT JJ NN .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBG IN CD .", "label": "REFUTES"}
+{"claim": "NNP NNP VBD VBN IN CD .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ VBN CC VBN NNS .", "label": "NOT ENOUGH INFO"}
+{"claim": "DT JJ VBZ RB DT NN NN .", "label": "REFUTES"}
+{"claim": "DT NN VBD VBN IN NN .", "label": "SUPPORTS"}
+{"claim": "NNP VBZ RB VB DT NNP .", "label": "REFUTES"}
+{"claim": "NNP VBD VBN IN JJ NNS .", "label": "SUPPORTS"}
